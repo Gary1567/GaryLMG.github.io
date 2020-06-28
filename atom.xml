@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>想要飞翔的小菜鸟</title>
+  
+  <subtitle>不忘初心 方能始终</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hongmengping.github.io/"/>
+  <updated>2020-03-08T11:58:36.150Z</updated>
+  <id>https://hongmengping.github.io/</id>
+  
+  <author>
+    <name>hongmengping</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>有关h5微信支付</title>
+    <link href="https://hongmengping.github.io/2020/03/08/you-guan-h5-wei-xin-zhi-fu/"/>
+    <id>https://hongmengping.github.io/2020/03/08/you-guan-h5-wei-xin-zhi-fu/</id>
+    <published>2020-03-08T10:53:47.000Z</published>
+    <updated>2020-03-08T11:58:36.150Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h1&gt;&lt;p&gt;由于项目需要支付功能，由于微信支付需要很高的手续费，所以借用第三方的支付平台（支付派）来对接微信支付。&lt;/p&gt;
+&lt;h1
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第四周学习计划总结</title>
+    <link href="https://hongmengping.github.io/2020/02/10/di-si-zhou-xue-xi-ji-hua-zong-jie/"/>
+    <id>https://hongmengping.github.io/2020/02/10/di-si-zhou-xue-xi-ji-hua-zong-jie/</id>
+    <published>2020-02-10T14:15:14.000Z</published>
+    <updated>2020-02-10T14:41:41.246Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;英语&quot;&gt;&lt;a href=&quot;#英语&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="周总结" scheme="https://hongmengping.github.io/categories/%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="周总结" scheme="https://hongmengping.github.io/tags/%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之set、map集合</title>
+    <link href="https://hongmengping.github.io/2020/02/06/es6-zhi-set-map-ji-he/"/>
+    <id>https://hongmengping.github.io/2020/02/06/es6-zhi-set-map-ji-he/</id>
+    <published>2020-02-06T12:20:11.000Z</published>
+    <updated>2020-02-07T04:34:15.033Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;set-集合&quot;&gt;&lt;a href=&quot;#set-集合&quot; class=&quot;headerlink&quot; title=&quot;set 集合&quot;&gt;&lt;/a&gt;set
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之Fetch Api</title>
+    <link href="https://hongmengping.github.io/2020/02/04/es6-zhi-fetch-api/"/>
+    <id>https://hongmengping.github.io/2020/02/04/es6-zhi-fetch-api/</id>
+    <published>2020-02-04T06:08:55.000Z</published>
+    <updated>2020-02-04T06:39:07.873Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;需结合网络-暂时略过&quot;&gt;&lt;a href=&quot;#需结合网络-暂时略过&quot; class=&quot;headerlink&quot; title=&quot;需结合网络 暂时略过&quot;&gt;&lt;/a&gt;需结合网络 暂时略过&lt;/h1&gt;&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之异步处理- Promise</title>
+    <link href="https://hongmengping.github.io/2020/02/03/es6-zhi-yi-bu-chu-li-promise/"/>
+    <id>https://hongmengping.github.io/2020/02/03/es6-zhi-yi-bu-chu-li-promise/</id>
+    <published>2020-02-03T06:06:44.000Z</published>
+    <updated>2020-02-04T04:42:31.350Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Promise的基本使用&quot;&gt;&lt;a href=&quot;#Promise的基本使用&quot; class=&quot;headerlink&quot; title=&quot;Promise的基本使用&quot;&gt;&lt;/a&gt;Promise的基本使用&lt;/h1&gt;&lt;pre class=&quot;line-numbers
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之异步处理- async和await</title>
+    <link href="https://hongmengping.github.io/2020/02/03/es6-zhi-yi-bu-chu-li-async-he-await/"/>
+    <id>https://hongmengping.github.io/2020/02/03/es6-zhi-yi-bu-chu-li-async-he-await/</id>
+    <published>2020-02-03T04:43:30.000Z</published>
+    <updated>2020-02-04T05:52:47.988Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;async-和-await&quot;&gt;&lt;a href=&quot;#async-和-await&quot; class=&quot;headerlink&quot; title=&quot;async 和 await&quot;&gt;&lt;/a&gt;async 和 await&lt;/h1&gt;&lt;p&gt;async 和 await 是 ES2016
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之异步处理 -- 【回顾】事件循环</title>
+    <link href="https://hongmengping.github.io/2020/02/02/es6-zhi-yi-bu-chu-li-hui-gu-shi-jian-xun-huan/"/>
+    <id>https://hongmengping.github.io/2020/02/02/es6-zhi-yi-bu-chu-li-hui-gu-shi-jian-xun-huan/</id>
+    <published>2020-02-02T06:06:44.000Z</published>
+    <updated>2020-02-04T03:00:37.045Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;事件循环小例子&quot;&gt;&lt;a href=&quot;#事件循环小例子&quot; class=&quot;headerlink&quot; title=&quot;事件循环小例子&quot;&gt;&lt;/a&gt;事件循环小例子&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-js&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之符号</title>
+    <link href="https://hongmengping.github.io/2020/02/01/es6-zhi-fu-hao/"/>
+    <id>https://hongmengping.github.io/2020/02/01/es6-zhi-fu-hao/</id>
+    <published>2020-02-01T13:39:17.000Z</published>
+    <updated>2020-02-02T06:02:02.044Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;普通符号&quot;&gt;&lt;a href=&quot;#普通符号&quot; class=&quot;headerlink&quot; title=&quot;普通符号&quot;&gt;&lt;/a&gt;普通符号&lt;/h1&gt;&lt;p&gt;符号是ES6新增的一个数据类型，它通过使用函数&lt;code&gt;Symbol(符号名)&lt;/code&gt;来创建&lt;/p&gt;
+&lt;pre
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之解构</title>
+    <link href="https://hongmengping.github.io/2020/02/01/es6-zhi-jie-gou/"/>
+    <id>https://hongmengping.github.io/2020/02/01/es6-zhi-jie-gou/</id>
+    <published>2020-02-01T05:31:37.000Z</published>
+    <updated>2020-02-01T13:18:05.879Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;对象解构&quot;&gt;&lt;a href=&quot;#对象解构&quot; class=&quot;headerlink&quot; title=&quot;对象解构&quot;&gt;&lt;/a&gt;对象解构&lt;/h1&gt;&lt;h2 id=&quot;什么是解构&quot;&gt;&lt;a href=&quot;#什么是解构&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之对象</title>
+    <link href="https://hongmengping.github.io/2020/01/31/es6-zhi-dui-xiang/"/>
+    <id>https://hongmengping.github.io/2020/01/31/es6-zhi-dui-xiang/</id>
+    <published>2020-01-31T07:16:24.000Z</published>
+    <updated>2020-02-01T05:30:43.517Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;新增的对象字面量语法&quot;&gt;&lt;a href=&quot;#新增的对象字面量语法&quot; class=&quot;headerlink&quot; title=&quot;新增的对象字面量语法&quot;&gt;&lt;/a&gt;新增的对象字面量语法&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;成员速写&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之函数</title>
+    <link href="https://hongmengping.github.io/2020/01/30/es6-zhi-han-shu/"/>
+    <id>https://hongmengping.github.io/2020/01/30/es6-zhi-han-shu/</id>
+    <published>2020-01-30T11:28:34.000Z</published>
+    <updated>2020-01-31T07:17:22.483Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;参数默认值&quot;&gt;&lt;a href=&quot;#参数默认值&quot; class=&quot;headerlink&quot; title=&quot;参数默认值&quot;&gt;&lt;/a&gt;参数默认值&lt;/h1&gt;&lt;h2 id=&quot;使用&quot;&gt;&lt;a href=&quot;#使用&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之字符串和正则表达式</title>
+    <link href="https://hongmengping.github.io/2020/01/30/es6-zhi-zi-fu-chuan-he-zheng-ze-biao-da-shi/"/>
+    <id>https://hongmengping.github.io/2020/01/30/es6-zhi-zi-fu-chuan-he-zheng-ze-biao-da-shi/</id>
+    <published>2020-01-30T08:06:45.000Z</published>
+    <updated>2020-01-31T07:17:25.510Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;更好的Unicode支持&quot;&gt;&lt;a href=&quot;#更好的Unicode支持&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>总结之新年寄语</title>
+    <link href="https://hongmengping.github.io/2020/01/24/zong-jie-zhi-xin-nian-ji-yu/"/>
+    <id>https://hongmengping.github.io/2020/01/24/zong-jie-zhi-xin-nian-ji-yu/</id>
+    <published>2020-01-24T07:07:31.000Z</published>
+    <updated>2020-01-24T07:29:20.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天是除夕，也算2020年新的开端。在1月1日，写下20年展望，回想这20几天。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在工作上&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;磕磕碰碰写完轿车托运。但是写的代码冗余度很高，uniapp的方法没有理解透，遇到问题，还是茫然无措，
+        
+      
+    
+    </summary>
+    
+    
+      <category term="总结" scheme="https://hongmengping.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ES6之let和const</title>
+    <link href="https://hongmengping.github.io/2020/01/15/es6-zhi-let-he-const/"/>
+    <id>https://hongmengping.github.io/2020/01/15/es6-zhi-let-he-const/</id>
+    <published>2020-01-15T14:28:35.000Z</published>
+    <updated>2020-01-31T07:17:28.738Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;let的用法和var差不多，但是又和var不相同。let是为了弥补var的设计不足。var中只有全局作用域和局部作用域。在if和for中声明的也都是全局作用域，只有函数中声明会变成局部作用域。而let就有块级作用域，只要被大括号包裹就是块级作用域。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初探闭包</title>
+    <link href="https://hongmengping.github.io/2020/01/14/chu-tan-bi-bao/"/>
+    <id>https://hongmengping.github.io/2020/01/14/chu-tan-bi-bao/</id>
+    <published>2020-01-14T12:22:09.000Z</published>
+    <updated>2020-01-30T08:32:20.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一-闭包产生的原因&quot;&gt;&lt;a href=&quot;#一-闭包产生的原因&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://hongmengping.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笔记之js的缺点</title>
+    <link href="https://hongmengping.github.io/2020/01/13/bi-ji-zhi-es6/"/>
+    <id>https://hongmengping.github.io/2020/01/13/bi-ji-zhi-es6/</id>
+    <published>2020-01-13T15:10:47.000Z</published>
+    <updated>2020-01-31T07:17:18.081Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;JS的缺点&quot;&gt;&lt;a href=&quot;#JS的缺点&quot; class=&quot;headerlink&quot; title=&quot;JS的缺点&quot;&gt;&lt;/a&gt;JS的缺点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;允许重复的变量声明：导致数据被覆盖&lt;blockquote&gt;
+&lt;p&gt;var a =
+        
+      
+    
+    </summary>
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/categories/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="ES6笔记" scheme="https://hongmengping.github.io/tags/ES6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>uniapp入坑记</title>
+    <link href="https://hongmengping.github.io/2020/01/08/uniapp-ru-keng-ji/"/>
+    <id>https://hongmengping.github.io/2020/01/08/uniapp-ru-keng-ji/</id>
+    <published>2020-01-08T14:16:13.000Z</published>
+    <updated>2020-01-30T08:32:12.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一-简短介绍&quot;&gt;&lt;a href=&quot;#一-简短介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="uniapp初体验" scheme="https://hongmengping.github.io/tags/uniapp%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>展望20</title>
+    <link href="https://hongmengping.github.io/2020/01/01/zhan-wang-20/"/>
+    <id>https://hongmengping.github.io/2020/01/01/zhan-wang-20/</id>
+    <published>2020-01-01T13:53:33.000Z</published>
+    <updated>2020-01-13T15:05:51.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;回望19，经历实习毕业设计论文的摧残后，在家歇业自学前端。终于赶在19的小尾巴找了份工作。第一次接触项目，一脸懵逼，问同事,
+        
+      
+    
+    </summary>
+    
+    
+      <category term="展望" scheme="https://hongmengping.github.io/tags/%E5%B1%95%E6%9C%9B/"/>
+    
+  </entry>
+  
+</feed>
